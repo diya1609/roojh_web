@@ -1,0 +1,70 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/ArimoBold.ttf");
+  font-family: "Arimo";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/PoppinsBold.ttf");
+  font-family: "Poppins";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/ArimoMedium.ttf");
+  font-family: "Arimo";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/ArimoRegular.ttf");
+  font-family: "Arimo";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/ArimoSemiBold.ttf");
+  font-family: "Arimo";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/ArimoMediumItalic.ttf");
+  font-family: "Arimo";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/ArimoRomanRegular.ttf");
+  font-family: "Arimo";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/ArimoBoldItalic.ttf");
+  font-family: "Arimo";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/InterSemiBold.ttf");
+  font-family: "Inter";
+  font-weight: 600;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/InterMedium.ttf");
+  font-family: "Inter";
+  font-weight: 500;
+}
